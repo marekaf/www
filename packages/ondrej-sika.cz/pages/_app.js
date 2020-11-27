@@ -162,6 +162,9 @@ const Footer = (
         <Link href="/seznam-skoleni">
           <ThemeFooter.A href="#">Seznam Všech Školení</ThemeFooter.A>
         </Link>
+        <Link href="/hr">
+          <ThemeFooter.A href="#">HR</ThemeFooter.A>
+        </Link>
       </Hide>
     }
   />
